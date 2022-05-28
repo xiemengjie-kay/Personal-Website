@@ -1,15 +1,10 @@
 body{
 	font-family: arial, sans-serif;
-}
-
-#firstPage{
-	background-color: #565192;
-	height: 700px;
-	width: 100%;
+	background-color: #f9eadb;
 }
 
 #firstPageNav{
-	background-color:#f9EADB;
+	background-color:#565192;
 	height: 70px;
 	width: 100%;
 }
@@ -65,23 +60,28 @@ body{
 	padding-right: 4px;
 }
 
-
 h1{
-	color: white;
-	margin-top: 10%;
-	font-size: 400%;
-}
-
-h4{
-	color: white;
-	font-size: 150%;
+	color: #565192;
 	text-align: center;
+	font-size: 300%;
 }
 
-#firstPage2{
-	background-color: #f9EADB;
-	height: 700px;
+
+p{
+	padding-right: 10%;
+	padding-left: 10%;
+	font-size: 120%;
+	text-align: justify;
+	line-height: 140%;
+}
+
+footer{
+	background-color:#565192;
+	height: 70px;
 	width: 100%;
+	margin-top: 5%;
 }
 
-
+h3{
+	padding-top: 2%;
+}
