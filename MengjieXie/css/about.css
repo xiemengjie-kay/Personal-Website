@@ -27,10 +27,7 @@ body{
 	margin-right: 10%;
 	margin-top: 15px;
 	display: inline-block;
-	padding-top: 4px;
-	padding-bottom: 4px;
-	padding-left: 4px;
-	padding-right: 4px;
+	padding: 4px;
 }
 
 #link2{
@@ -40,10 +37,7 @@ body{
 	font-size: 200%;
 	display: inline-block;
 	margin-top: 15px;
-	padding-top: 4px;
-	padding-bottom: 4px;
-	padding-left: 4px;
-	padding-right: 4px;
+	padding: 4px;
 }
 
 #link3{
@@ -54,10 +48,7 @@ body{
 	margin-left: 10%;
 	display: inline-block;
 	margin-top: 15px;
-	padding-top: 4px;
-	padding-bottom: 4px;
-	padding-left: 4px;
-	padding-right: 4px;
+	padding: 4px;
 }
 
 h1{
