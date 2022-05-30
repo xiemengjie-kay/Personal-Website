@@ -24,10 +24,14 @@ body{
 	background-color: #d5621f;
 	color: black;
 	font-size: 200%;
-	margin-right: 10%;
-	margin-top: 15px;
 	display: inline-block;
-	padding: 4px;
+	margin-top: 10.5px;
+	margin-right: 10%;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 4px;
+	padding-right: 4px;
+	border-radius: 5%;
 }
 
 #link2{
@@ -36,8 +40,12 @@ body{
 	color: black;
 	font-size: 200%;
 	display: inline-block;
-	margin-top: 15px;
-	padding: 4px;
+	margin-top: 10.5px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 4px;
+	padding-right: 4px;
+	border-radius: 5%;
 }
 
 #link3{
@@ -47,6 +55,10 @@ body{
 	font-size: 200%;
 	margin-left: 10%;
 	display: inline-block;
-	margin-top: 15px;
-	padding: 4px;
+	margin-top: 10.5px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 4px;
+	padding-right: 4px;
+	border-radius: 5%;
 }
