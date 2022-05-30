@@ -1,11 +1,6 @@
 body{
 	font-family: arial, sans-serif;
-}
-
-#firstPage{
 	background-color: #565192;
-	height: 700px;
-	width: 100%;
 }
 
 #firstPageNav{
@@ -86,6 +81,7 @@ h4{
 
 h5{
 	margin-top: 10%;
+	margin-bottom: 10%;
 	text-align: center;
 	font-size: 120%;
 }
